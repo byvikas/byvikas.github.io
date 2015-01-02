@@ -1,0 +1,12 @@
+# Site settings
+title: Vikas Garg
+email: admin@byvikas.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learning how to blog like hackers. Also a place to showcase photographs from 2015
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://byvikas.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  byvikas
+
+# Build settings
+markdown: kramdown

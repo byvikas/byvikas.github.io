@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Starting / designing a Jekyll blog"
+date:   2015-01-01 19:13:54
+categories: jekyll blog
+---
+
+#### Useful Links
+1. [Markdown Cheatsheet][markdown]
+2. [Jekyll docs][jekyll] 
+3. [Jekyll’s dedicated Help repository][jekyll-help]
+
+
+#### Things to do
+1. Customize Layout
+- [x] Paragraphs should be justified
+- [ ] Cleaner Index Page
+- [	] Choose Color scheme
+- [ ] Choose Text style
+2. Create Layout for posting pictures/photo gallery
+- [ ] Create Thumbnails
+- [ ] Create Gallery
+3. Learn something new!
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+[markdown]:    https://help.github.com/articles/markdown-basics/
