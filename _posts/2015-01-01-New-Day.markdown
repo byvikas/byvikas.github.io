@@ -20,6 +20,7 @@ categories: jekyll blog
 2. Create Layout for posting pictures/photo gallery
 - [ ] Create Thumbnails
 - [ ] Create Gallery
+- [ ] Implement Instagram Feed
 3. Learn something new!
 
 
