@@ -14,7 +14,5 @@ categories: help css
 Add 
 <pre>text-align: justify;</pre>
 to the css file for the post content.
-<pre>
-.post-content {
-    }
-    </pre>
+<pre>.post-content {
+    }</pre>
