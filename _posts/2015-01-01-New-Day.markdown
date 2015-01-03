@@ -30,4 +30,4 @@ categories: jekyll blog
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [markdown]:    https://help.github.com/articles/markdown-basics/
 [instafeed-help]: https://writeblog/
-[paragraph-help]: https://writeblog/
+[paragraph-help]: http://byvikas.github.io/help/css/2015/01/02/how-to-justify-paragraphs.html
