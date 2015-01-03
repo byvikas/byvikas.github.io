@@ -5,7 +5,8 @@ date:   2015-01-02 21:19:23
 categories: help css
 ---
 
-```{% assign image = '{{image}}' %}
+```
+ {% assign image = '{{image}}' %}
  {% assign link = '{{link}}' %}
  <script src="/assets/instafeed.js" type="text/javascript"></script>
  <script type="text/javascript">
