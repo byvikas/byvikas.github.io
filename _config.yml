@@ -10,3 +10,6 @@ github_username:  byvikas
 
 # Build settings
 markdown: kramdown
+
+# Handling Reading
+safe:         false
