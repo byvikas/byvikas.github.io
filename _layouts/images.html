@@ -7,18 +7,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
-  
- {% assign image = '{{image}}' %}
- {% assign link = '{{link}}' %}
-  <script type="text/javascript">
-  	var feed = new InstaFeed ({ 
-      get: "tagged",
-      tagName: "awesome",
-      clientId: "50d1d119102e48a49451b4e6faf2c459",
-      template: '<a href="{{link}}"><img src="{{image}}" /></a>'
-       });
-  	feed.run();
-  </script>
+
   <div id="instafeed">
 
   </div>
