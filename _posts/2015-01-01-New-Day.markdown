@@ -20,7 +20,7 @@ categories: jekyll blog
 2. Create Layout for posting pictures/photo gallery
 - [ ] Create Thumbnails
 - [ ] Create Gallery
-- [ ] Implement Instagram Feed
+- [x] [Implement Instagram Feed][instafeed-help]
 3. Learn something new!
 
 
@@ -28,3 +28,4 @@ categories: jekyll blog
 [jekyll]:      http://jekyllrb.com
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [markdown]:    https://help.github.com/articles/markdown-basics/
+[instafeed-help]: https://writeblog/
