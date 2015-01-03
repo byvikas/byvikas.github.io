@@ -7,9 +7,9 @@ categories: help css
 
 <pre> {% assign image = '{{image}}' %}
  {% assign link = '{{link}}' %}
- <pre><script src="/assets/instafeed.js" type="text/javascript"></script></pre>
+ <pre>\<script src="/assets/instafeed.js" type="text/javascript"></script></pre>
  
- <script type="text/javascript">
+ \<script type="text/javascript">
       var feed = new Instafeed({
     	get:'user',
 	userId: USER_ID,
@@ -22,5 +22,5 @@ categories: help css
     </script>
 </pre>
 <pre>
-https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=http://byvikas.github.io&response_type=token
+https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=(YOUR_URL)&response_type=token
 </pre>
