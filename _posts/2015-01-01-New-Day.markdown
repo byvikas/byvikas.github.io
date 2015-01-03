@@ -17,6 +17,7 @@ categories: jekyll blog
 - [ ] Cleaner Index Page
 - [ ] Choose Color scheme
 - [ ] Choose Text style
+- [ ] Create Tag Cloud
 2. Create Layout for posting pictures/photo gallery
 - [ ] Create Thumbnails
 - [ ] Create Gallery
