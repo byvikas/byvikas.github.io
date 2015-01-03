@@ -12,7 +12,7 @@ categories: help css
     	get:'user',
 	userId: USER_ID,
 	accessToken: 'USER_ID.TOKEN_FROM_INSTAGRAM_MANAGE_CLIENT',
-        clientId: '{{site.instafeed.clientId}}',
+        clientId: `{{site.instafeed.clientId}}`,
         resolution: 'standard_resolution',
         limit: 30,
     });
