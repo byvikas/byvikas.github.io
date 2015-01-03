@@ -19,8 +19,8 @@ categories: help css
         limit: 30,
     });
     feed.run();
-    </script>
+ </script>
 ```
-<pre>
+```
 https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=(YOUR_URL)&response_type=token
-</pre>
+```
