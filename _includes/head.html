@@ -9,13 +9,15 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {% assign url = '{{image}}' %}
   <script src="{{ "/css/instafeed.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script type="text/javascript">
   	var feed = new InstaFeed ({ 
       get: "tagged",
       tagName: "mom",
       clientId: "50d1d119102e48a49451b4e6faf2c459"
-  	});
+      template: '<li><img src="{{image}}" alt=""/></li>'
+  });
   	feed.run();
   </script>
 </head>
