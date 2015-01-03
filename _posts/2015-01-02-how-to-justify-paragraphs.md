@@ -6,12 +6,11 @@ categories: help css
 ---
 
 Under 
-
+<pre>
 .
-├── _config.yml
-├── _sass
-|   ├── _layout.scss
-
++--_sass
+|  +--_layout.scss
+</pre>
 add the following
 
 .post-content {
