@@ -8,13 +8,13 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
   
-  {% assign url = '{{image}}' %}
+  {% assign url = '{{ image }}' %}
   <script type="text/javascript">
   	var feed = new InstaFeed ({ 
       get: "tagged",
       tagName: "awesome",
       clientId: "50d1d119102e48a49451b4e6faf2c459",
-      template: '<li><img src="{{image}}" alt=""/></li>'
+      template: '<li><img src="{{ image }}" alt=""/></li>'
        });
   	feed.run();
   </script>
