@@ -5,8 +5,7 @@ date:   2015-01-02 21:00:23
 categories: help css
 ---
 
-<pre>
-.
+<pre>.
 +--_sass
 |  +--_layout.scss
 </pre>
