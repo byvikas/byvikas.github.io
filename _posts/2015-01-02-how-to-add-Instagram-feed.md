@@ -19,4 +19,8 @@ categories: help css
         limit: 30,
     });
     feed.run();
-    </script></pre>
+    </script>
+</pre>
+<pre>
+https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=http://byvikas.github.io&response_type=token
+</pre>
