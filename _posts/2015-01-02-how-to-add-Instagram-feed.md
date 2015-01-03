@@ -7,7 +7,7 @@ categories: help css
 
 <pre> {% assign image = '{{image}}' %}
  {% assign link = '{{link}}' %}
- <script src="/assets/instafeed.js" type="text/javascript"></script>
+ <pre><script src="/assets/instafeed.js" type="text/javascript"></script></pre>
  
  <script type="text/javascript">
       var feed = new Instafeed({
