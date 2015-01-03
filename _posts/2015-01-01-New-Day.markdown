@@ -13,7 +13,7 @@ categories: jekyll blog
 
 #### Things to do
 1. Customize Layout
-- [x] Paragraphs should be justified
+- [x] Paragraphs should be justified - [How to?][paragraph-help]
 - [ ] Cleaner Index Page
 - [	] Choose Color scheme
 - [ ] Choose Text style
@@ -29,3 +29,4 @@ categories: jekyll blog
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [markdown]:    https://help.github.com/articles/markdown-basics/
 [instafeed-help]: https://writeblog/
+[paragraph-help]: https://writeblog/
