@@ -5,11 +5,10 @@ date:   2015-01-02 21:19:23
 categories: help css
 ---
 
-<pre> {% assign image = '{{image}}' %}
- {% assign link = '{{link}}' %}
- <pre>\<script src="/assets/instafeed.js" type="text/javascript"></script></pre>
- 
- \<script type="text/javascript">
+`{% assign image = '{{image}}' %}`
+ `{% assign link = '{{link}}' %}`
+ `<script src="/assets/instafeed.js" type="text/javascript"></script>`
+ `<script type="text/javascript">`
       var feed = new Instafeed({
     	get:'user',
 	userId: USER_ID,
@@ -20,7 +19,7 @@ categories: help css
     });
     feed.run();
     </script>
-</pre>
+
 <pre>
 https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=(YOUR_URL)&response_type=token
 </pre>
