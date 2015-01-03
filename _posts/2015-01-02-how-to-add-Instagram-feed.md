@@ -6,8 +6,6 @@ categories: help css
 ---
 
 {% highlight ruby %}
- {% assign image = '{{image}}' %}
- {% assign link = '{{link}}' %}
  <script src="/assets/instafeed.js" type="text/javascript"></script>
  <script type="text/javascript">
      var feed = new Instafeed({
@@ -22,6 +20,11 @@ categories: help css
  </script>
 {% endhighlight %}
 
-```
+<pre>
 https://instagram.com/oauth/authorize/?client_id=(YOUR_CLIENT_ID)&redirect_uri=(YOUR_URL)&response_type=token
-```
+</pre>
+<pre>
+ {% assign image = '{{image}}' %}
+ {% assign link = '{{link}}' %}
+ </pre>
+
