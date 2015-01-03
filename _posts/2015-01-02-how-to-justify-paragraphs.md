@@ -6,9 +6,12 @@ categories: help css
 ---
 
 Under 
-|byvikas.github.io
-||_sass
-|||_layout.scss
+
+.
+├── _config.yml
+├── _sass
+|   ├── _layout.scss
+
 add the following
 
 .post-content {
