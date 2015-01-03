@@ -13,14 +13,14 @@ categories: jekyll blog
 
 #### Things to do
 1. Customize Layout
-- [x] Paragraphs should be justified - [How to?][paragraph-help]
+- [x] Paragraphs should be justified - [Help][paragraph-help]
 - [ ] Cleaner Index Page
-- [	] Choose Color scheme
+- [ ] Choose Color scheme
 - [ ] Choose Text style
 2. Create Layout for posting pictures/photo gallery
 - [ ] Create Thumbnails
 - [ ] Create Gallery
-- [x] [Implement Instagram Feed][instafeed-help]
+- [x] Implement Instagram Feed - [Help][instafeed-help]
 3. Learn something new!
 
 
